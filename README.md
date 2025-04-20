@@ -8,6 +8,10 @@ This project benchmarks **Bun.js** and **Node.js** on the following metrics:
 
 It generates reports in **CSV**, **Markdown**, and **Text** format, and also creates a **PNG graph** using `gnuplot` for visualization.
 
+## 🚀 Results
+
+![Benchmarked_Results](./benchmark-results.png)
+
 ## 🚀 Prerequisites
 
 Before running the benchmark, you need the following installed on your system:
