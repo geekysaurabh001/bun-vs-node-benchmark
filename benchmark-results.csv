@@ -1,0 +1,3 @@
+Server,Boot Time (ms),Requests/sec,Transfer/sec,Duration,Connections
+bun,119,2878.78,545.39KB,10s,100
+node,1130,1339.38,565.05KB,10s,100
